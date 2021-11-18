@@ -1,4 +1,4 @@
-### Sou Arthur Crivilin, desenvolvedor Full Stack, em treinamento para DevOps, Senior em Python, 3 anos de experiência com criação e desenvolvimento de ERP, desenvolvimento Web em conjunto com os serviços da Amazon Web Services.
+### Sou Arthur Crivilin, desenvolvedor Full Stack, em treinamento para DevOps, Senior em Python, 3 anos de experiência com criação e desenvolvimento de ERP em campo, 2 anos de experiência e uso dos serviços da AWS.
 <div align="center" style="display: flex; flex-direction: row;">
 	<a href="https://github.com/Arthurcrivilin">
 	<img height="180em" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Arthurcrivilin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
