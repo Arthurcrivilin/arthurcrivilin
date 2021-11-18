@@ -9,7 +9,6 @@
 	<img height="180em" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Arthurcrivilin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 	<img height="180em" style="width: 52%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurcrivilin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 ## Linguagem e ferramentas
 <div style="display: inline_block">
 	<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,7 +24,6 @@
 	<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 	<img align="center" alt="Linux KDE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
 ## Contato
 <div>
   <a href = "mailto:acrivilindelcaro@gmail.com">
