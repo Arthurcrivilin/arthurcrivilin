@@ -1,4 +1,4 @@
-## Sou Arthur Crivilin Del Caro
+# Sou Arthur Crivilin Del Caro
 - Desenvolvedor Full Stack;
 - Sênior em Python;
 - Estudante de Engenharia mecânica;
@@ -10,9 +10,8 @@
 	<img height="180em" style="width: 52%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurcrivilin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Linguagem e ferramentas
+## Linguagem e ferramentas
 <div style="display: inline_block">
-  <br>
 	<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 	<img align="center" alt="Bootstrap" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,9 +26,8 @@
 	<img align="center" alt="Linux KDE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-### Contato
+## Contato
 <div>
-  <br>
   <a href = "mailto:acrivilindelcaro@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
