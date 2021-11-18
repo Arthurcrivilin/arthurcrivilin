@@ -1,4 +1,4 @@
-### Olá, sou Arthur Crivilin, desenvolvedor Full Stack, inspirado por pequenas e constantes soluções.
+### Sou Arthur Crivilin, desenvolvedor Full Stack, em treinamento para DevOps, Senior em Python, 3 anos de experiência com criação e desenvolvimento de ERP, desenvolvimento Web em conjunto com os serviços da Amazon Web Services.
 <div align="center" style="display: flex; flex-direction: row;">
 	<a href="https://github.com/Arthurcrivilin">
 	<img height="180em" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Arthurcrivilin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,12 +7,11 @@
 
 <div style="display: inline_block">
   <br>
-	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 	<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+	<img align="center" alt="Bootstrap" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 	<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img align="center" alt="Mongo DB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 	<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
