@@ -10,7 +10,7 @@
 	<img height="180em" style="width: 52%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurcrivilin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Linguagem e ferramentas
+## Linguagens e ferramentas
 <div style="display: inline_block">
 	<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 	<img align="center" alt="Bootstrap" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
