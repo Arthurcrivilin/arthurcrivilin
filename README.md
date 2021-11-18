@@ -1,4 +1,4 @@
-### Sou Arthur Crivilin
+### Sou Arthur Crivilin Del Caro
 - Desenvolvedor Full Stack;
 - Sênior em Python;
 - Estudante de Engenharia mecânica;
