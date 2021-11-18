@@ -26,6 +26,7 @@
 	<img align="center" alt="Linux KDE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
+## Linguagem e ferramentas
 <div>
   <br>
   <a href = "mailto:acrivilindelcaro@gmail.com">
